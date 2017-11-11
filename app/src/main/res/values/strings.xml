@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practice1_E6_2</string>
+    <string name="login">Login</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="si">SI</string>
+    <string name="no">NO</string>
+    <string name="direcci_n_web">Dirección web</string>
+    <string name="visitar">Visitar</string>
+    <string name="qu_te_gustar_a_hacer">¿Qué te gustaría hacer?</string>
+    <string name="has_hecho_ya_las_pr_cticas">¿Has hecho ya las prácticas?</string>
+    <string name="hacer">Hacer</string>
+    <string name="guardar">Guardar</string>
+    <string name="cerrar_sessi_n">Cerrar sessión</string>
+    <string name="terminar">Terminar</string>
+    <string name="elige_una_opci_n">Elige una opción:</string>
+</resources>
